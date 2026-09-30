@@ -48,6 +48,7 @@ class GenerateCommand extends Command
             "8.4" => "d553fa36940639b0889ec4358fa3bbb92f123b69",
             "8.5" => "ce397343296708654c8cdac774e23a9ee47ab27d",
             "8.6" => "master",
+            "8.7" => "master",
         ];
 
         $version = $input->getArgument("version");
